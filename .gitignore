@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+_archive_old_scripts/
+
+data/*.csv
+data/*.zip
+data/processed/
+
+outputs/**/*.csv
+outputs/**/*.joblib
+outputs/**/*.json
+outputs/submissions/
